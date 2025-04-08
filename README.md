@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there, I'm Martina, a Uruguayan Web Developer!👋🏼
 🔭 currently working on my own webpage<br>👯 living in Salto City, Uruguay<br>🌱 studying a tertiary technical course in networks and software<br>⚡ deeply fascinated by large-scale, high-impact designs
 
 
